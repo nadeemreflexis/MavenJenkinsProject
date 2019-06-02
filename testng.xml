@@ -8,6 +8,7 @@
   <test name="Test2">
   <classes>
       <class name="com.maven.project.GetTitleTest"/>
+      <class name="com.maven.project.GetTextTest"/>
     </classes>
     </test>
 </suite> <!-- Suite -->
